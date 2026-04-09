@@ -1,10 +1,10 @@
 {
-  "name": "rgautham",
+  "name": "gautham",
   "version": "1.0.0",
   "description": "A fancy terminal card for R Gautham — developer, builder, human.",
   "type": "module",
   "bin": {
-    "rgautham": "./bin/index.js"
+    "gautham": "./bin/index.js"
   },
   "scripts": {
     "start": "node bin/index.js"
