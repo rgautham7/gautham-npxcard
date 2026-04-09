@@ -4,7 +4,7 @@
   "description": "A fancy terminal card for R Gautham — developer, builder, human.",
   "type": "module",
   "bin": {
-    "gautham": "./bin/index.js"
+    "rgautham": "./bin/index.js"
   },
   "scripts": {
     "start": "node bin/index.js"
