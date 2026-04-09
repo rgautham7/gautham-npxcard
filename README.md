@@ -1,4 +1,4 @@
-# 🚀 gautham
+# Gautham - NPX Card
 
 > A fancy, interactive terminal card for **R Gautham** — right inside your CLI.
 
@@ -8,7 +8,7 @@ Turn your terminal into a mini-portfolio experience and make a memorable first i
 
 ## Usage
 ```bash
-    npx gautham
+npx gautham
 ```
 
 ## 🎯 What You Get
