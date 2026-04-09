@@ -1,0 +1,33 @@
+{
+  "name": "rgautham",
+  "version": "1.0.0",
+  "description": "A fancy terminal card for R Gautham — developer, builder, human.",
+  "type": "module",
+  "bin": {
+    "gautham": "./bin/index.js"
+  },
+  "scripts": {
+    "start": "node bin/index.js"
+  },
+  "keywords": [
+    "card",
+    "cli",
+    "gautham",
+    "developer",
+    "portfolio"
+  ],
+  "author": "R Gautham",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "dependencies": {
+    "boxen": "^8.0.1",
+    "chalk": "^5.6.2",
+    "figlet": "^1.11.0",
+    "gradient-string": "^3.0.0",
+    "inquirer": "^13.4.1",
+    "open": "^11.0.0",
+    "ora": "^9.3.0"
+  }
+}
